@@ -1,0 +1,31 @@
+/* 
+    Document   : styleSheet
+    Created on : Feb 10, 2013, 1:03:21 PM
+    Author     : Jonathon
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+#headerDiv { 
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    background-color: orchid;
+}
+#headerImg{
+    width: 720px;
+    height:100%;
+}
+#navigationBar{
+    position: relative;
+    left:0px;
+    width: 100px;
+    height: 510px;
+    text-emphasis-color: darkblue;
+    background-color: lightblue;
+    float:left;
+}
+#contentDiv{
+    position: relative;
+    float:left;
+}
